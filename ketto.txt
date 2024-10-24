@@ -1,1 +1,2 @@
 ketto.txt elso sora
+masodik sor
